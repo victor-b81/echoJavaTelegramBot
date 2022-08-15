@@ -1,4 +1,4 @@
-# echoJavaTelegramBot
+# echo Java Telegram Bot
 Very simple telegram echo bot on java
 
 JAVA Telegram Echo Bot
